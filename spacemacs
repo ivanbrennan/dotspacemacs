@@ -97,7 +97,6 @@ values."
    ;; with 2 themes variants, one dark and one light)
    dotspacemacs-themes '(spacemacs-dark
                          spacemacs-light
-                         solarized-light
                          solarized-dark
                          leuven
                          monokai
