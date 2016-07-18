@@ -1,1 +1,1 @@
-`ln -s ~/Development/resources/spacemacs/spacemacs ~/.spacemacs`
+`ln -s ~/Development/resources/emacs/spacemacs/spacemacs ~/.spacemacs`
