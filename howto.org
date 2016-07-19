@@ -1,0 +1,6 @@
+** last buffer :: SPC TAB
+** ag :: SPC /
+** ag cursor :: SPC *
+** comment operator :: SPC ;
+** navigate like vinegar :: Ranger/Deer?
+
