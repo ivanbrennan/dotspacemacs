@@ -4,4 +4,7 @@
 ** comment operator :: SPC ;
 ** navigate like vinegar :: Ranger/Deer?
 ** determine whether buffer is modified ::
+** hide eof tildes ::
+** set different color past eof ::
+** set different color past 90 chars ::
 
