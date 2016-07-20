@@ -3,4 +3,5 @@
 ** ag cursor :: SPC *
 ** comment operator :: SPC ;
 ** navigate like vinegar :: Ranger/Deer?
+** determine whether buffer is modified ::
 
