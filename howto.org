@@ -7,4 +7,5 @@
 ** hide eof tildes ::
 ** set different color past eof ::
 ** set different color past 90 chars ::
-
+** nohlsearch :: SPC s c
+** turn on line-wrapping ::
