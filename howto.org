@@ -9,3 +9,8 @@
 ** set different color past 90 chars ::
 ** nohlsearch :: SPC s c
 ** turn on line-wrapping ::
+** make Helm tab-completion act like wildmode=list:longest,full or like bash
+** C-W and C-U in insert-mode & on command-line
+** jump back word in insert-mode like C-B
+** show/hide line numbers
+** reduce scroll offset to 1 line
