@@ -4,3 +4,4 @@ auto-indent as you type
 word/line completion
 file-path completion
 ctags (etags?)
+case insensitive buffer-name completion
