@@ -6,3 +6,6 @@ file-path completion
 ctags (etags?)
 case insensitive buffer-name completion
 space vs tab indent
+smooth scrolling with external mouse wheel
+nicer color theme
+nicer whitespace faces
