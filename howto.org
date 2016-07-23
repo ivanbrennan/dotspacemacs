@@ -1,16 +1,23 @@
-** last buffer :: SPC TAB
-** ag :: SPC /
-** ag cursor :: SPC *
-** comment operator :: SPC ;
-** navigate like vinegar :: Ranger/Deer?
-** determine whether buffer is modified ::
-** hide eof tildes ::
-** set different color past eof ::
-** set different color past 90 chars ::
-** nohlsearch :: SPC s c
-** turn on line-wrapping ::
-** make Helm tab-completion act like wildmode=list:longest,full or like bash
-** C-W and C-U in insert-mode & on command-line
-** jump back word in insert-mode like C-B
-** show/hide line numbers
-** reduce scroll offset to 1 line
+** ag
+   - SPC /
+   - SPC *
+** comment operator
+   - SPC ;
+** last buffer
+   - SPC TAB
+** nohlsearch
+   - SPC s c
+
+** backward-kill-word (C-w) in insert/minibuffer
+** color past 90 chars
+** color past eof
+** completion (word/line/path), Helm like wildmode=list:longest,full or like bash
+** ctags (etags?)
+** fringe bitmap past eof instead of tildes
+** line numbers toggle
+** line wrapping toggle
+** move backward-word in insert-mode
+** partial line completion (cursor to end of line)
+** scroll offset to 1 line
+** unix-word-rubout (C-u) in insert/minibuffer
+** vinegar (Ranger/Deer?)

@@ -1,3 +1,0 @@
-word/line completion
-file-path completion
-ctags (etags?)
