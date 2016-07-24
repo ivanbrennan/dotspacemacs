@@ -14,6 +14,7 @@
 ** completion (word/line/path), Helm like wildmode=list:longest,full or like bash
 ** ctags (etags?)
 ** fringe bitmap past eof instead of tildes
+** golden ratio mode
 ** line numbers toggle
 ** line wrapping toggle
 ** move backward-word in insert-mode
